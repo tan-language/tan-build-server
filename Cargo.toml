@@ -1,7 +1,7 @@
 [package]
 name = "tan-build-server"
 description = "An BSP server for the Tan Language"
-version = "0.12.0"
+version = "0.13.0"
 edition = "2021"
 license = "Apache-2.0"
 repository = "https://github.com/tan-language/tan-build-server"
